@@ -54,7 +54,7 @@
           <!-- Intro Text -->
           <div class="mb-8">
             <h1 class="text-4xl sm:text-5xl md:text-6xl font-bold text-white leading-tight mb-4">
-              Hello, I'm <span class="text-lime-400 animate-pulse">Phouen Chhanna</span>
+              Hello, I'm <span class="text-lime-400 animate-pulse">Phoeun Chhanna</span>
             </h1>
             <h2 class="text-2xl sm:text-3xl text-gray-300 mb-6">
               Nickname <span class="text-red-400 font-bold">Chhanna Code</span>
